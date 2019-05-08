@@ -34,7 +34,7 @@ $ npm run test
 ```
 $ npm run-lint
 ```
-#### Validating 3rd party package vulnerabilities 
+#### Validating 3rd party package vulnerabilities and fix accordingly
 ```
-$ npm run-nsp
+$ npm audit & npm audit fix 
 ```
